@@ -1,0 +1,7 @@
+MetaTrader5==5.0.45
+gspread==6.1.2
+oauth2client==4.1.3
+numpy==1.26.4
+matplotlib==3.8.4
+requests==2.32.3
+pandas==2.2.2
